@@ -93,4 +93,4 @@ frequencyBodyGyroscopeJerkMagnitude-std()|fBodyBodyGyroJerkMag-std()
 
 ##Links
 readme.md: http://www.github.com/
-run_analysis.R: http://www.github.com/
+run_analysis.R: https://github.com/Xinxinzuihao/ProjectCleanData/blob/master/run_analysis.R
