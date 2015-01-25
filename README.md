@@ -1,8 +1,8 @@
 #Coursera Getting and Cleaning Data - Project 
 ##Links:
-Source Dataset: https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip.
-Code for Data Cleaning:
-Code Book for Tidy Data: 
+Source Dataset: https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip.                   
+Code for Data Cleaning: https://github.com/Xinxinzuihao/ProjectCleanData/blob/master/run_analysis.R                          
+Code Book for Tidy Data: https://github.com/Xinxinzuihao/ProjectCleanData/blob/master/CodeBook.md                            
 
 ##Goal
 -Merges the training and the test sets to create one data set.                                                              
