@@ -5,18 +5,18 @@ For the details of the data cleaning process, please refer to the read me file R
 ##Tidy Data Variables
 Variable Names | Descriptions
 --------|-----------
-activities| 6 levels. WALKING, WALKING_UPSTAIRS, WALKING_DOWNSTAIRS SITTING, STANDING, LAYING
-subjects| the subject who performed the activity, ranges from 1 to 30
-...BodyAccelerometer-...| 6 columns. Mean and standard deviation of time or frequancy of 3-axial body signals (X, Y or Z) from accelerometer for each subject and each activity
-...GravityAccelerometer-...| 6 columns. Mean and standard deviation of time or frequancy of 3-axial Gravity signals (X, Y or Z) from accelerometer each subject and each activity
-...BodyAccelerometerJerk-...| 6 columns. Mean and standard deviation of time or frequancy of 3-axial body jerk signals (X, Y or Z) from accelerometer each subject and each activity
-...BodyGyroscope-...| 6 columns. Mean and standard deviation of time or frequancy of 3-axial body signals (X, Y or Z) from Gyroscope each subject and each activity
-...BodyGyroscopeJerk-...| 6 columns. Mean and standard deviation of time or frequancy of 3-axial body Jerk signals (X, Y or Z) from Gyroscope each subject and each activity
-...BodyAccelerometerMagnitude-...| 2 columns. Mean and standard deviation of time or frequancy of magnitude of body signals from accelerometer each subject and each activity
-...GravityAccelerometerMagnitude-...| 2 columns. Mean and standard deviation of time or frequancy of magnitude of gravity signals from accelerometer each subject and each activity
-...BodyAccelerometerJerkMagnitude-...| 2 columns. Mean and standard deviation of time or frequancy of magnitude of body jerk signals from accelerometer each subject and each activity
-...BodyGyroscopeMagnitude-...| 2 columns. Mean and standard deviation of time or frequancy of magnitude of magnitude of body signals from gyroscope each subject and each activity
-...BodyGyroscopeJerkMagnitude-...| 2 columns. Mean and standard deviation of time or frequancy of magnitude of body jerk signals from gyroscope each subject and each activity
+activities| One column. 6 levels. WALKING, WALKING_UPSTAIRS, WALKING_DOWNSTAIRS SITTING, STANDING, LAYING
+subjects| One column. The subject who performed the activity, ranges from 1 to 30
+...BodyAccelerometer-...| 6 columns. Mean and standard deviation of time or frequency of 3-axial body signals (X, Y or Z) from accelerometer for each subject and each activity. Unit of time is in second. Unit of frequenry is in HZ.
+...GravityAccelerometer-...| 6 columns. Mean and standard deviation of time or frequency of 3-axial Gravity signals (X, Y or Z) from accelerometer each subject and each activity. Unit of time is in second. Unit of frequenry is in HZ.
+...BodyAccelerometerJerk-...| 6 columns. Mean and standard deviation of time or frequency of 3-axial body jerk signals (X, Y or Z) from accelerometer each subject and each activity. Unit of time is in second. Unit of frequenry is in HZ.
+...BodyGyroscope-...| 6 columns. Mean and standard deviation of time or frequency of 3-axial body signals (X, Y or Z) from Gyroscope each subject and each activity. Unit of time is in second. Unit of frequenry is in HZ.
+...BodyGyroscopeJerk-...| 6 columns. Mean and standard deviation of time or frequency of 3-axial body Jerk signals (X, Y or Z) from Gyroscope each subject and each activity. Unit of time is in second. Unit of frequenry is in HZ.
+...BodyAccelerometerMagnitude-...| 2 columns. Mean and standard deviation of time or frequency of magnitude of body signals from accelerometer each subject and each activity. Unit of time is in second. Unit of frequenry is in HZ.
+...GravityAccelerometerMagnitude-...| 2 columns. Mean and standard deviation of time or frequency of magnitude of gravity signals from accelerometer each subject and each activity. Unit of time is in second. Unit of frequenry is in HZ.
+...BodyAccelerometerJerkMagnitude-...| 2 columns. Mean and standard deviation of time or frequency of magnitude of body jerk signals from accelerometer each subject and each activity. Unit of time is in second. Unit of frequenry is in HZ.
+...BodyGyroscopeMagnitude-...| 2 columns. Mean and standard deviation of time or frequency of magnitude of magnitude of body signals from gyroscope each subject and each activity. Unit of time is in second. Unit of frequenry is in HZ.
+...BodyGyroscopeJerkMagnitude-...| 2 columns. Mean and standard deviation of time or frequency of magnitude of body jerk signals from gyroscope each subject and each activity. Unit of time is in second. Unit of frequenry is in HZ.
 
 
 ##This is a comparison of the variable names in tidydata.txt and in original data set.
