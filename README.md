@@ -12,7 +12,7 @@ Code Book for Tidy Data: https://github.com/Xinxinzuihao/ProjectCleanData/blob/m
 -Creates a second, independent tidy data set with the average of each variable for each activity and each subject.       
 
 ##
-Instruction to run run_analysis.R:
+Instruction to run run_analysis.R:                                                                                       
 -download zip file and save into work directory                                                                           
 -the read.table(choose.files()) function pops up a "select" window, which allows you to choose the txt file you want to read in.(Please refer to the notes in run_analysis.R for which txt file to read)                                                
 -run_analysis.R completes the tasks listed under the Goal section and writes a "tidydata.txt" file into your work directory  
