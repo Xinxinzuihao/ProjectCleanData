@@ -3,6 +3,8 @@ This is the data dictionary for the tidy date set 'tidydata.txt'. The tidy data 
 For the details of the data cleaning process, please refer to the read me file README.md and R code file run_analysis.R.
 
 ##Tidy Data Variables
+Please note: variable name "... XXX..." represents all the columns that contains the string "XXX".
+
 Variable Names | Descriptions
 --------|-----------
 activities| One column. 6 levels. WALKING, WALKING_UPSTAIRS, WALKING_DOWNSTAIRS SITTING, STANDING, LAYING
