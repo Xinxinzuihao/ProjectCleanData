@@ -1,6 +1,6 @@
 #Code Book
 This is the data dictionary for the tidy date set 'tidydata.txt'. The tidy data was derived from the provided UCI HAR Dataset. 
-For the details of the data cleaning process, please refer to the read me file readme.md and R code file run_analysis.R.
+For the details of the data cleaning process, please refer to the read me file README.md and R code file run_analysis.R.
 
 ##Tidy Data Variables
 Variable Names | Descriptions
@@ -92,5 +92,5 @@ frequencyBodyGyroscopeJerkMagnitude-mean()|fBodyBodyGyroJerkMag-mean()
 frequencyBodyGyroscopeJerkMagnitude-std()|fBodyBodyGyroJerkMag-std()
 
 ##Links
-readme.md: https://github.com/Xinxinzuihao/ProjectCleanData/blob/master/README.md                                  
+README.md: https://github.com/Xinxinzuihao/ProjectCleanData/blob/master/README.md                                  
 run_analysis.R: https://github.com/Xinxinzuihao/ProjectCleanData/blob/master/run_analysis.R
